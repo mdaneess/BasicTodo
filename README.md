@@ -1,1 +1,2 @@
-# TodoByJs
+# BasicTodo
+Using html/css only
