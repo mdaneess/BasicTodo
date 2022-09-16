@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Baloo+Bhai+2&family=Bree+Serif&family=Great+Vibes&family=Merriweather:ital,wght@1,700&display=swap');
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.navbar {
+    margin: auto;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.container {
+    color: aliceblue;
+    border-radius: 20px;
+    background-color: rgb(132, 216, 47);
+    text-align: left;
+    font-family: 'Merriweather', serif;
+}
+
+.form-text {
+    color: aliceblue;
+}
+
+.table {
+    color: aliceblue;
+}
+
+.btn:hover {
+    color: white;
+    background-color: red;
+}
